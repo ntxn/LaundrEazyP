@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreateAccount Rendering Rendering should match to snapshot: Create Account 1`] = `ShallowWrapper {}`;
+
+exports[`LogIn Rendering Rendering should match to snapshot: Log In 1`] = `ShallowWrapper {}`;

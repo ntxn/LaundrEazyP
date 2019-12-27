@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "laundreazy",
+  "private_key_id": "115f0dfbf762ee5f2ed22467aef2ad26127df3cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyaT0XXPmGhVa6\nV6k5QXkcanJcJmFq0wpL0fBC2ArxZyclOD+rUQrkb2HD++kYJCLPKSLsd8bNpjJG\nSJpxu3Fkap5s1LOwLh+0N4xyREFT04HA9JCkVu13xnfyR/Vs6AGnvFTBLCXDfepZ\nxxuUYABJ4IsbOEo0qFMyfXWVyru65y5m4ujpQXMpdwGV8ac0aJoSjbtc94RnFf2I\n27w8WW10YolKNlIFsQSnuxIWeuzqfxo5FD6FpOy6Si6faKCN82x69tSw7YrZLN1p\ngBcS1LqV3vvJ+SP9THS0MLUB+jnYci4PFczodvTOfuNg0kB6q78m3TKXkAn57oOE\nCJca5Bm7AgMBAAECggEACYdLBCVAOGSFBMUWHHY4OIHLjiCzTD1ti9jFtbQ3JWcb\nypuYnuw1ojdRUo0biQwJBeUNtfERtOhe6q0JqUWttoNmkavB1bN+QvrtLSnNuWM5\nnKtofDZzpAAoENBctbkluXvP+lSCxyWW72jjEAdujIOJumWaZPnmc521ZXojO5tI\nD3NvzR3t/b85z7tTfZIxmcWCPO1JlKif0pkaZ+aREz9dzKkpYeGqwQwUcMaMV/M+\nH+riYWD8fKMeEMyV2axtVUQOJpaEx1TvDU3r6AC59Yadk2AxAaoH95X1cn2SlcoX\na/XBqSwr49r860I1RdEjtt9lQ2vJQuhj/wO4vEtHiQKBgQDZcEx/QHQx1p25DYjg\nVktJQOHvwelRiUmDG6T+lhzrresbsVQftDT8WwjZ3jsG4QYMPybmxQNzf6fXrcUM\nmLUCT8uodZ7NoqMKWxfO4AUSO7hCOflhwxMS7ujmM8vAk745et3mwX8FF7JklaNS\nJsF4RxS/tHC8C9E5ndAXMEKHcwKBgQDSDRcenU1QdnbFw0OkcE6AZhM2tfgJcva0\nlJ3zzwzVglEsO6Vah5Rj3dp4twA/FZVUZdTX+60ZsBN+67EDMjvkE+5A9+jRJGu8\ncFSqTuxttmYhF4f6Kk0oETqdrw8tPOaTp0IUuQpD8bvS5estX0IXL7dfe2tRx7eh\nyH98zpTCmQKBgAoZcTQn5j26XjEOM+FXoL+SR+w+8XtcCRIR4qQAjO9VcKoknmeq\nkxt1jv+vlsZHBWTkOgZV+EcREtatt41SOnYVBryYWfvrJe+BM6XkOdgS9gf9cVvd\nF7G1bxPiLACR3DAHSO9C5YdzBlItsRxLuIjBpHETDHlvgxROBDBPiYeJAoGBAIsH\now/eajgh0Qeg8Pq8YxlVds41r5EBiQ2JeOrRVttTQEsYx5+eMbfQNjTEW+Nlc8vD\nAxhaOv7PrnfJpQZKj52tG3vhGzai9rRpXYDEcHVFz1+D5brNmPg2PyfzoQX+U1fT\n00dIGuVR8VHsYLdNX79dE/CdDjG5EXCB9vAzA/+xAoGBAMPiY53rNuS373HYRcTU\nZALuQjkDchYQAhkJ+Ml9s/03X1ybTeRJEFP7nL1tMlLvXNyhv5nOQAb4f2oW5JZ6\n9+s/yU5E6BM7y0rRjNZrTCUvjwti4qLcCn3Vii1V18dNT1aX1TAZzbGQvvEVHqL0\nevYwtXPFMXv66Eil2aLTk5IE\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-dggii@laundreazy.iam.gserviceaccount.com",
+  "client_id": "106322473592539211600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-dggii%40laundreazy.iam.gserviceaccount.com"
+}

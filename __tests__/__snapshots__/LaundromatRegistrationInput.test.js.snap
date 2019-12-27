@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LaundromatRegistrationFormInput Rendering, Initial values Rendering should match to snapshot: Laundromat Registration Form 1`] = `ShallowWrapper {}`;
